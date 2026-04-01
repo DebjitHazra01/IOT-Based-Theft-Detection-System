@@ -1,0 +1,7 @@
+Component,Quantity,Purpose
+NodeMCU (ESP8266),1,Main microcontroller with WiFi
+PIR Motion Sensor,1,Detects motion
+Buzzer,1,Alarm output
+Breadboard,1,Circuit connections
+Jumper Wires,Several,Connections between modules
+USB Cable / Power,1,Power supply

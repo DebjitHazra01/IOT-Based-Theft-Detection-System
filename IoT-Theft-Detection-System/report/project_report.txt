@@ -1,0 +1,7 @@
+IoT Based Theft Detection System
+
+This project detects unauthorized motion using a PIR sensor connected to NodeMCU.
+When motion is detected, a buzzer alarm is triggered. The system can be extended
+to send alerts using IoT platforms like Blynk or Telegram.
+
+Author: Debjit Hazra

@@ -1,0 +1,4 @@
+PIR OUT -> D5
+Buzzer -> D6
+PIR VCC -> 3.3V
+PIR GND -> GND
